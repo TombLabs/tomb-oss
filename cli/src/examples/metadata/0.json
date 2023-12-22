@@ -1,0 +1,22 @@
+{
+  "name": "COOL CODER CORN: Immutably Cool #1",
+  "symbol": "CCC",
+  "description": "You know what's cooler than being cool?  Corn.  Corn when he codes.",
+  "seller_fee_basis_points": 6969,
+  "image": "0.png",
+  "external_url": "https://tombstoned.app",
+  "attributes": [
+    { "trait_type": "Background", "value": "Green" },
+    { "trait_type": "Snippet", "value": "Immutable string" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "CoRN4ehk5syMQzs36M7CWspUh8dPaTDVafeJWPmuWpBQ",
+        "share": 100
+      }
+    ],
+    "category": "image",
+    "files": [{ "uri": "0.png", "type": "image/png" }]
+  }
+}

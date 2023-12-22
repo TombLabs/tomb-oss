@@ -1,0 +1,22 @@
+{
+  "name": "COOL CODER CORN: Rly Gud Code #3",
+  "symbol": "CCC",
+  "description": "You know what's cooler than being cool?  Corn.  Corn when he codes.",
+  "seller_fee_basis_points": 6969,
+  "image": "7.png",
+  "external_url": "https://tombstoned.app",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Snippet", "value": "Rly Gud Code" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "CoRN4ehk5syMQzs36M7CWspUh8dPaTDVafeJWPmuWpBQ",
+        "share": 100
+      }
+    ],
+    "category": "image",
+    "files": [{ "uri": "7.png", "type": "image/png" }]
+  }
+}

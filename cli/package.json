@@ -1,0 +1,43 @@
+{
+  "name": "tomb-labs-cli",
+  "version": "1.0.0",
+  "description": "A set of tools used by Tomb Labs",
+  "main": "index.ts",
+  "author": "Tomb Labs",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@metaplex-foundation/mpl-bubblegum": "^3.0.0",
+    "@metaplex-foundation/umi": "^0.8.10",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.8.10",
+    "@metaplex-foundation/umi-web3js-adapters": "^0.8.10",
+    "@project-serum/anchor": "^0.26.0",
+    "@shadow-drive/sdk": "^5.0.0",
+    "@solana/spl-token": "^0.3.9",
+    "@solana/web3.js": "^1.87.6",
+    "@types/cli-progress": "^3.11.5",
+    "@types/figlet": "^1.5.8",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.3",
+    "@types/ora": "^3.2.0",
+    "axios": "^1.6.2",
+    "bs58": "^5.0.0",
+    "chalk": "^5.3.0",
+    "cli-progress": "^3.12.0",
+    "cli-spinners": "^2.9.2",
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.7.0",
+    "ora": "^3.2.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "cli": "ts-node ./src/index.ts",
+    "test": "jest"
+  }
+}
